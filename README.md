@@ -16,7 +16,6 @@
 
 <br />
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=devto,arduino,figma,svelte,nextjs,ts,python,flask,flutter,cloudflare,linux" />
   </a>
 </p>
