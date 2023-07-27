@@ -12,3 +12,10 @@
 - 🌐 **Web Application Creation:** Building web applications is my current interest and challenge.
 - 🖋 **Tech Blogging:** Stay tuned for my upcoming blog with technical articles on all things construction and IT.
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=devto,arduino,figma,svelte,nextjs,ts,python,flask,flutter,cloudflare,linux" />
+  </a>
+</p>
+
