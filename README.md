@@ -1,23 +1,14 @@
-# 👋 Hi there!
+## Hello there! 👋 
 
-I'm a seasoned construction supervisor and a certified construction management engineer, juggling the worlds of construction and IT. I'm passionate about systematizing knowledge in the construction industry and currently working on creating operation manuals for all departments in my company. 🏗️💻
+#### I'm a seasoned construction supervisor and the lone IT professional at my company, diving headfirst into programming to streamline our office tasks.
 
-### 🔭 Mission
+## Here's what I'm up to:
 
-I'm on a mission to enrich the chronically understaffed construction industry by automating tasks and sharing technical information through a website I'm building.
+- 🔨 **Construction Knowledge Organization:** Wrestling with ways to better organize and understand our field's vast knowledge base.
+- 💻 **Lone IT Warrior and Programming:** As the sole IT professional at my company, I'm turning my journey into programming into a tool for increasing efficiency.
+- 📘 **User Manuals:** I'm the author of manuals for every department in our company, ensuring everyone has the info they need.
+- 🚀 **Boosting the Industry:** I'm on a mission to energize our understaffed industry, spreading knowledge and illuminating the craftsmanship handed down through generations.
+- 🤖 **Task Automation:** I'm developing systems to automate tasks and make our work even more efficient.
+- 🌐 **Web Application Creation:** Building web applications is my current interest and challenge.
+- 🖋 **Tech Blogging:** Stay tuned for my upcoming blog with technical articles on all things construction and IT.
 
-### 🌱 Learning
-
-I'm a lifelong learner and researcher, always curious and ready to dive deep into any topic that catches my interest.
-
-### 👨‍🍳 Interests
-
-In my free time, I love to create - be it DIY projects or cooking up a storm in the kitchen.
-
-### 💬 Open for Discussion
-
-Ask me about anything related to construction, IT, or how to maintain a healthy lifestyle while juggling desk work and field work.
-
-### ⚡ Philosophy
-
-I never judge a book by its cover. I believe in experiencing things first hand before forming an opinion.
