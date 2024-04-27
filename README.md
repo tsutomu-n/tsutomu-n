@@ -1,4 +1,5 @@
-#### 建設会社でひとり情シスになった監理技術者👷: I'm a seasoned construction supervisor and the company's IT pro. Diving into programming for streamlining work!
+#### 建設会社でひとり情シスになった監理技術者👷
+I'm a seasoned construction supervisor and the company's IT pro. Diving into programming for streamlining work!
 
 # Here's what I'm up to:
 - 👷‍♂️ **Construction Knowledge Organization:** Developing ways to better organize and understand our field's vast knowledge base.
