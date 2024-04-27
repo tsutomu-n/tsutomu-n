@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,azure,gcp,bots,figma,go,solidity,ty,svelte,py,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=arduino,azure,gcp,bots,figma,go,ty,svelte,py,tensorflow,pytorch" />
   </a>
 </p>
 
