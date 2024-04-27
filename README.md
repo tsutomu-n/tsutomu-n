@@ -9,8 +9,9 @@
 
 <br />
 <p align="center">
-[![My Skills 2024](https://skillicons.dev/icons?i=arduino,azure,gcp,bots,figma,go,solidity,ty,svelte,py,tensorflow,pytorch)](https://skillicons.dev)
-</a>
+    <a href="https://skillicons.dev">
+      [![My Skills 2024](https://skillicons.dev/icons?i=arduino,azure,gcp,bots,figma,go,solidity,ty,svelte,py,tensorflow,pytorch)](https://skillicons.dev)
+    </a>
 </p>
 
 # Education
