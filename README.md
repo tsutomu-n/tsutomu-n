@@ -6,12 +6,12 @@
 - 🚀 **Boosting the Industry:** I'm on a mission to energize our understaffed industry, sharing knowledge and highlighting the craftsmanship passed down through generations.
 
 ***
-
 <br />
+
 <p align="center">
-    <a href="https://skillicons.dev">
-      [![My Skills 2024](https://skillicons.dev/icons?i=arduino,azure,gcp,bots,figma,go,solidity,ty,svelte,py,tensorflow,pytorch)](https://skillicons.dev)
-    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,azure,gcp,bots,figma,go,solidity,ty,svelte,py,tensorflow,pytorch" />
+  </a>
 </p>
 
 # Education
