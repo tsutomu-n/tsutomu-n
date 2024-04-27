@@ -9,9 +9,7 @@
 
 <br />
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=devto,arduino,figma,svelte,nextjs,ts,python,flask,flutter,cloudflare,linux" />
-    <br />
-    <em>Skills: Dev.to, Arduino, Figma, Svelte, Next.js, TypeScript, Python, Flask, Flutter, Cloudflare, Linux</em>
+[![My Skills 2024](https://skillicons.dev/icons?i=arduino,azure,gcp,bots,figma,go,solidity,ty,svelte,py,tensorflow,pytorch)](https://skillicons.dev)
 </a>
 </p>
 
