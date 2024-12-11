@@ -1,4 +1,4 @@
-#### 建設会社でひとり情シスになった監理技術者👷
+#### 👷
 I'm a seasoned construction supervisor and the company's IT pro. Diving into programming for streamlining work!
 
 # Here's what I'm up to:
