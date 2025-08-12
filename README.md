@@ -2,6 +2,7 @@
 
 Civil engineering supervisor and full-stack dev in Japan with 10+ years of experience.  
 I build small, practical tools that replace spreadsheets and manual workflows.
+「紙・口頭・Excel依存」をなくし、誰でも回せる仕組みに置き換えることに関心あり。
 
 ## What I'm working on
 - Building knowledge systems for civil construction
@@ -21,4 +22,3 @@ I build small, practical tools that replace spreadsheets and manual workflows.
 ## Education
 - The University of Texas
 
-「紙・口頭・Excel依存」をなくし、誰でも回せる仕組みに置き換えることに関心あり。
