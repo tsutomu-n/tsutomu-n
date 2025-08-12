@@ -1,6 +1,6 @@
 ### Civil Engineering × Software Automation 👷
 
-Civil engineering supervisor and full-stack dev in Japan with 15+ years of experience.  
+Civil engineering supervisor and full-stack dev in Japan with 10+ years of experience.  
 I build small, practical tools that replace spreadsheets and manual workflows.
 
 ## What I'm working on
