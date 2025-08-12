@@ -1,20 +1,24 @@
-#### 👷
-I'm a seasoned construction supervisor and the company's IT pro. Diving into programming for streamlining work!
+### Civil Engineering × Software Automation 👷
 
-# Here's what I'm up to:
-- 👷‍♂️ **Construction Knowledge Organization:** Developing ways to better organize and understand our field's vast knowledge base.
-- 📊 **Data Preprocessing and Time Series Analysis:** I have a fondness for the nitty-gritty of data preprocessing and time series analysis.
-- 📘 **User Manuals:** I've written manuals for every department in our company, ensuring everyone has the info they need.
-- 🚀 **Boosting the Industry:** I'm on a mission to energize our understaffed industry, sharing knowledge and highlighting the craftsmanship passed down through generations.
+Civil engineering supervisor and full-stack dev in Japan with 15+ years of experience.  
+I build small, practical tools that replace spreadsheets and manual workflows.
 
-***
-<br />
+## What I'm working on
+- Building knowledge systems for civil construction
+- Time-series analysis and data preprocessing
+- Writing company-wide manuals that actually get used
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,azure,gcp,figma,go,ts,svelte,py,tensorflow,pytorch" />
-  </a>
-</p>
+## Projects
+- **LiDAR Volume Calculator** — automates earthwork volume calculation from point clouds
+- **Point Cloud Web Viewer** — browser-based LAS/LAZ visualization
+- **Construction Report Generator** — generates 3D heatmaps and cross-sections for earthwork analysis
 
-# Education
-- 🎓 **University of Texas** - Health, Art
+## Now
+- Tooling: Python 3.13 (uv), Bun + Hono
+- Frontend: Astro v5, Svelte, Tailwind CSS v4
+- Infra & IoT: Proxmox, Tailscale, ESP32/Arduino
+
+## Education
+- The University of Texas
+
+「紙・口頭・Excel依存」をなくし、誰でも回せる仕組みに置き換えることに関心あり。
